@@ -1,2 +1,2 @@
 # Introducao_pandas
-Passos iniciais de análise de dados utilizando biblioteca pandas e um conjunto de dados de alugueis na europa.
+Esta análise consite em avaliar preço de aluguel de imóveis em algumas cidades da europa e então descidir pelo gosto do cliente através de sua necessidade um apartamento ideal. É um conjunto de dados meramente ilustrativo com teor educacional de como utilizar algumas biblioteca como pandas e biblioteca de visualização como seaborn ou matplotlib, para iniciarmos utilizamos a função import para chamar as bibliotecas necessárias.
